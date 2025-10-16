@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World!";
+    private static final String MESSAGE = "Hi , Dinesh here ,I have successfully built and run my first Maven project in Jenkins";
 
     public App() {}
 
